@@ -1,0 +1,10 @@
+rtions(+)
+ create mode 100644 home.txt
+
+KRCHOWDAR-Y@DESKTOP-AFU3PS4 MINGW64 ~/Desktop/gitfrist (fristbranch)
+$ ls
+rtions(+)
+ create mode 100644 home.txt
+
+KRCHOWDAR-Y@DESKTOP-AFU3PS4 MINGW64 ~/Desktop/gitfrist (fristbranch)
+$ ls
