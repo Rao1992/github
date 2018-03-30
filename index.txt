@@ -1,1 +1,3 @@
 hi how r u man
+modified in frist branch
+so use git commit
